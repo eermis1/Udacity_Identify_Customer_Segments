@@ -18,6 +18,7 @@ In order to run the notebook flawlessly, please run: <br>
         - pip install -U scikit-learn 
         - pip install seaborn 
         - pip install matplotlib
+        - pip install joblib
         - conda install -c plotly plotly-orca==1.3.1 psutil requests #To save plotly graphs as png or jpeg. 
 
 ### Run
