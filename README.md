@@ -20,6 +20,19 @@ In order to run the notebook flawlessly, please run: <br>
         - pip install matplotlib
         - conda install -c plotly plotly-orca==1.3.1 psutil requests #To save plotly graphs as png or jpeg. 
 
+### Run
+
+In a terminal or command window, navigate to the top-level project directory `Udacity_Identify_Customer_Segments/` (that contains this README) and run one of the following commands:
+
+```bash
+ipython notebook Identify_Customer_Segments.ipynb.ipynb
+```  
+or
+```bash
+jupyter notebook Identify_Customer_Segments.ipynb.ipynb
+```
+
+
 ## Author
 
 The repository has been created by ***Evren Ermiş*** <br>
